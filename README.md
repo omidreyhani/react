@@ -1,3 +1,3 @@
-npm install 
-cd client
-npm install
+npm install   
+cd client  
+npm install  
